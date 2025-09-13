@@ -18,15 +18,3 @@ A simple and lightweight **QR Code Generator web app** built using HTML, CSS, an
 
 ## 💼 Footer
 Developed by **Karthik Shet**
-
----
-
-Feel free to customize it further and add your own branding or README structure.
-
----
-
-👉 Next, I can build another useful app like:
-- ✅ Currency Converter  
-- ✅ Markdown Editor  
-
-Just let me know which one you want next.
